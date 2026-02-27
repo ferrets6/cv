@@ -4,9 +4,11 @@
 
 *Sviluppatore .NET, appassionato di clean code e tecnologie Microsoft* 💻
 
-[Email](mailto:federicoferretti.gvse@gmail.com) / [LinkedIn](https://www.linkedin.com/in/federicoferretti/) / 📞 328 066 8056
+[Email](mailto:ferrettifederico1990@gmail.com) / [LinkedIn](https://www.linkedin.com/in/federicoferretti/)
 
 📍 Fabriano (AN) - Marche, Italia
+
+📎 Scarica CV [as a PDF](https://github.com/ferrets6/cv/releases/download/latest/federico-ferretti-cv.pdf)
 
 ## 💼 Esperienze Lavorative
 
