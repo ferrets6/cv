@@ -50,8 +50,6 @@ Sviluppo full-stack su applicativi gestionali, con responsabilità diretta su pr
 
 - Implementazione di un Sistema di Gestione della Qualità (**ISO 9001**).
 
-<div class="page-break"></div>
-
 ## 🎓 Educazione
 
 **Tecnico Superiore nella Gestione e Verifica dei Sistemi Energetici** @ ITS "Efficienza Energetica" – Fabriano *(ott 2013 - nov 2015)* — Voto: 96/100

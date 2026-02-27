@@ -64,7 +64,7 @@ jobs:
         
       - name: Update markdown download link
         run: |
-          sed -i 's|📎 Download this CV \[as a PDF\](https://github.com/ferrets6/cv/releases/download/latest/federico-ferretti-cv.pdf)|🌐 Check this CV at \[cv.ferrets6.com\](https://cv.ferrets6.com)|' README.md
+          sed -i 's|📎 Scarica CV \[in PDF\](https://github.com/ferrets6/cv/releases/download/latest/federico-ferretti-cv.pdf)|🌐 Link al mio CV \[qui!\](https://ferrets6.github.io/cv/)|' README.md
 
       - name: Convert to PDF
         env:
