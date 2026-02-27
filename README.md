@@ -2,107 +2,137 @@
 
 <img src="assets/profile.png" alt="Profile picture" width="200" align="right"/>
 
-*Sviluppatore .NET, appassionato di clean code e tecnologie Microsoft* 💻
+**Software Engineer | .NET & NodeJS, 8+ yrs**
 
-[Email](mailto:ferrettifederico1990@gmail.com) / [LinkedIn](https://www.linkedin.com/in/federicoferretti/)
+[Email](mailto:ferrettifederico1990@gmail.com) · [LinkedIn](https://www.linkedin.com/in/federicoferretti/) · [GitHub](https://github.com/ferrets6)
 
-📍 Fabriano (AN) - Marche, Italia
+📍 Fabriano (AN) — Marche, Italia · Full Remote
 
-📎 Scarica CV [in PDF](https://github.com/ferrets6/cv/releases/download/latest/federico-ferretti-cv.pdf)
+📎 [Scarica CV in PDF](https://github.com/ferrets6/cv/releases/download/latest/federico-ferretti-cv.pdf)
 
-## 🙋 Su di me
+---
 
-Sono un risolutore. La mia innata curiosità mi predispone ad affrontare le nuove sfide con entusiasmo e passione. Mi piace lavorare in team e collaborare con i colleghi, con l'obiettivo comune di raggiungere i risultati prefissati. Patente B, disponibile per brevi trasferte all'estero.
+## Sommario
 
-## 🛠️ Competenze Tecniche
+Sviluppo backend e full-stack da oltre 8 anni, principalmente su .NET/C# e Node.js in contesti enterprise. Mi muovo bene sia sulla manutenzione di sistemi legacy complessi che sulla progettazione di nuovi layer — con attenzione costante alla qualità del codice e alle architetture manutenibili. Curiosità e problem solving sono la costante del mio percorso, dentro e fuori il lavoro.
 
-**Linguaggi & Framework:** .NET, NodeJS, Linq, SQL, React, Angular, Flutter/Dart, JavaScript, HTML, CSS, PHP, Python, VBA, C, C++, Arduino
+---
 
-**Metodologie:** Design Patterns, SOLID Principles, Unit Testing, REST API, AJAX, UML
+## Stack Tecnologico
+
+**Backend:** .NET (C#), Node.js, ASP.NET MVC, LINQ, SQL
+
+**Frontend:** React, Angular, JavaScript, jQuery, Bootstrap, HTML, CSS
+
+**API & Architettura:** REST API, Backend For Frontend (BFF), AJAX, UML
+
+**Metodologie:** Design Patterns, SOLID Principles, Unit Testing
 
 **Cloud:** Google Cloud Platform (GCP), Google Compute Engine
 
-**Networking:** Reti LAN, TCP/IP, IPv4, antenne Ubiquiti
-
-## 💼 Esperienze Lavorative
-
-**Software Engineer** @ [Euris S.p.A.](https://www.euris.it) *(mar 2022 - Presente)* — Full Remote
-
-Sviluppo back-end e front-end per cliente assicurativo, con focus su architetture pulite e manutenibili.
-
-- Sviluppo .NET back-end in **C#** e **NodeJS**, con integrazione di componenti front-end.
-- Analisi dei requisiti e progettazione di nuove implementazioni tramite **UML** e **Class Diagram**.
-- Approfondimento dei **Design Patterns**, dei principi **SOLID** e delle best practice di **Unit Testing**.
+**Altro:** Flutter/Dart, Python, PHP, VBA, Arduino, Attiny85
 
 ---
 
-**.NET Developer** @ [Metisoft S.p.A.](https://www.metisoft.it) *(nov 2017 - mar 2022)* — Ibrido
+## Esperienza
 
-Sviluppo full-stack su applicativi gestionali, con responsabilità diretta su progetti end-to-end.
+### Software Engineer · [Gruppo Euris S.p.A.](https://www.euris.it)
+*mar 2022 – Presente · Full Remote*
 
-- Sviluppo back-end con **C#**, **SQL**, **Linq** e front-end con **JS**, **CSS**, **ASP**, **jQuery**.
-- Sviluppo e utilizzo di servizi **REST** e chiamate **AJAX**. Gestione database e pubblicazione applicativi.
-- Consulente per reportistiche avanzate e integrazione dati, con responsabilità dall'analisi allo sviluppo.
+Integrazione e modernizzazione di sistemi legacy per un primario gruppo assicurativo internazionale — contesto enterprise ad alta complessità, con impatto diretto su processi core del business.
 
----
-
-**Tecnico del Web** @ Tipografia Garofoli (MiD) *(lug 2016 - gen 2017)* — Stage, Sassoferrato
-
-- Acquisizione di competenze **SEM** (SEO e AdWords) e sviluppo web con **JavaScript**, **PHP**, **HTML** e **CSS**.
-- Progettazione di automazioni di processo tramite **Arduino** e realizzazione di un sito con **Bootstrap**.
+- Progettazione e sviluppo di layer **BFF** (*Backend For Frontend*) in **Node.js** per esporre **API RESTful** verso interfacce moderne, disaccoppiando i sistemi core dai client.
+- Sviluppo back-end in **C#/.NET** con focus su architetture pulite e codice manutenibile nel lungo periodo.
+- Progettazione tramite **UML** e **Class Diagram**; applicazione sistematica di **Design Patterns**, principi **SOLID** e **Unit Testing**.
 
 ---
 
-**Tecnico di Laboratorio R&D** @ [Ariston Thermo Group](https://www.aristonthermo.com) *(mag - ott 2015)* — Stage, Fabriano
+### .NET Software Developer · [Metisoft S.p.A.](https://www.metisoft.it)
+*nov 2017 – mar 2022 · Da remoto, Fabriano*
 
-- Ideazione e implementazione di test su componenti elettroniche, con collaborazione cross-funzionale (R&D, Qualità, Marketing).
-- Sviluppo **VBA** per automazione in Excel e forte focus su Problem Shaping e autonomia operativa.
+Sviluppo full-stack su clienti enterprise per la digitalizzazione di processi industriali e logistici — dalla raccolta dei requisiti al deployment.
+
+- Sviluppo di nuovi moduli in **.NET/C#** e manutenzione evolutiva di sistemi core legacy mission-critical.
+- Automazione di flussi operativi e sistemi di **reportistica direzionale** su grandi volumi di dati, con ottimizzazione **SQL**.
+- Sviluppo di **API REST**, chiamate **AJAX**, gestione database e deployment di applicativi.
+- Refactoring e sviluppo di interfacce web responsive con **Bootstrap** e **jQuery**.
 
 ---
 
-**Consulente esterno** @ Laboratorio Biomasse, Università Politecnica delle Marche *(estate 2014)* — Stage
+### Web Developer · Tipografia Garofoli
+*lug 2016 – gen 2017 · Stage, Sassoferrato*
 
-- Implementazione di un Sistema di Gestione della Qualità (**ISO 9001**).
+- Sviluppo di interfacce web responsive con **Bootstrap**; ottimizzazione SEO/SEM.
+- Prototipazione di automazioni per i processi produttivi tramite **Arduino** ed elettronica applicata.
 
-## 🎓 Educazione
+---
 
-**Tecnico Superiore nella Gestione e Verifica dei Sistemi Energetici** @ ITS "Efficienza Energetica" – Fabriano *(ott 2013 - nov 2015)* — Voto: 96/100
+### Tecnico di Laboratorio R&D · [Ariston Thermo Group](https://www.aristonthermo.com)
+*mag – ott 2015 · Stage, Fabriano*
 
-Percorso focalizzato su Sistemi di Gestione Integrati, analisi delle prestazioni energetiche e riqualificazione industriale.
+- Sviluppo di strumenti di analisi dati e automazione della reportistica in **Excel/VBA** per i team R&D, Qualità e Marketing.
+- Implementazione di protocolli di test per la valutazione delle performance di prodotto in contesti cross-funzionali.
 
-- **International Internship**: Tirocinio formativo presso Bayview Hotel & Apartments, Gzira (Malta) — gestione e installazione di impianti energetici e di climatizzazione.
+---
 
-**Ingegneria Informatica ed Elettronica** @ Università degli Studi di Perugia *(2009 - 2012)* — Studi non completati
+### Collaboratore · Laboratorio Biomasse, Università Politecnica delle Marche
+*lug 2014*
 
-Esami superati: Fondamenti di Informatica (Java), Analisi Matematica, Fisica A e B, Geometria, Chimica, Inglese.
+- Analisi dei processi e redazione della documentazione per l'implementazione di un Sistema di Gestione della Qualità (**ISO 9001**).
 
-**Diploma Scientifico - Logico Matematico** @ Liceo "Vito Volterra" – Fabriano *(2009)*
+---
 
-## 📚 Formazione Continua
+## Formazione
 
-**Udemy.com**
-- *Unit Testing for C# Developers* — Mosh Hamedani
-- *Design Patterns in C# and .NET* — Dmitri Nesteruk
-- *The Complete ASP.NET MVC 5 Course* — Mosh Hamedani
-- *React – The Complete Guide* — Maximilian Schwarzmüller
-- *Angular – The Complete Guide* — Maximilian Schwarzmüller
-- *Flutter & Dart – The Complete Guide* — Maximilian Schwarzmüller
+### Introduction to Computer Science – CS50 · Harvard Online
+*da gen 2016*
 
-**Coursera.com**
-- *Developing Applications with Google Cloud* — Google Cloud
-- *Architecting with Google Compute Engine* — Google Cloud
+Corso in inglese di Computer Science — C++, HTML, PHP, Database con MySQL (phpMyAdmin).
 
-**Altri corsi**
+---
+
+### Formazione personale — Arduino & Embedded
+
+Progetti realizzati per curiosità personale, dall'idea al prototipo funzionante:
+
+- Robot telecomandato e multipresa Wi-Fi controllabili tramite app Android.
+- Automazione accensione/spegnimento insegna luminosa con **Attiny85** e sensore di luminosità.
+
+---
+
+### Tecnico Superiore nella Gestione e Verifica dei Sistemi Energetici · ITS "Efficienza Energetica"
+*Fabriano, 2013 – 2015 · Voto: 96/100*
+
+Analisi e gestione sistemi energetici, prestazioni energetiche degli edifici, normative ISO.
+
+- *International Internship*: Bayview Hotel & Apartments, Gzira (Malta) — gestione e installazione di impianti energetici e di climatizzazione.
+
+---
+
+## Certificazioni & Formazione Continua
+
+**Cloud**
+- *Developing Applications with Google Cloud Platform* — Coursera / Google *(mar 2019)*
+- *Architecting with Google Compute Engine* — Coursera / Google *(feb 2019)*
+
+**Sviluppo Software**
+- *Unit Testing for C# Developers* — Udemy / Mosh Hamedani
+- *Design Patterns in C# and .NET* — Udemy / Dmitri Nesteruk
+- *The Complete ASP.NET MVC 5 Course* — Udemy / Mosh Hamedani
+- *React – The Complete Guide* — Udemy / Maximilian Schwarzmüller
+- *Angular – The Complete Guide* — Udemy / Maximilian Schwarzmüller
+- *Flutter & Dart – The Complete Guide* — Udemy / Maximilian Schwarzmüller
+
+**Formazione professionale**
 - *Sviluppatore Web con tecnologia Microsoft* — Metisoft S.p.A. / Quota Group Srl *(ott 2017)*
-- *Le competenze trasversali in un percorso di lavoro* — Quota Group Srl *(lug/ago 2017)*
-- *Introduction to Computer Science – CS50* — Harvard Online Course *(da gen 2016)*
-
-## 💬 Lingue
-
-🇮🇹 **Italiano**: Madrelingua
-
-🇬🇧 **Inglese**: Buona conoscenza scritta e parlata — Certificato B1 Cambridge (set 2015), corso B2 presso InLingua (Malta)
 
 ---
 
-*Autorizzo il trattamento dei miei dati personali ai sensi del D.Lgs. 30 giugno 2003, n. 196 e del Regolamento UE 2016/679 (GDPR).*
+## Lingue
+
+**Italiano**: Madrelingua
+**Inglese**: B1 certificato (Cambridge PET, set 2015) · Corso B2 presso InLingua (Malta)
+
+---
+
+*Autorizzo il trattamento dei miei dati personali ai sensi del D.Lgs. 196/2003 e del Reg. UE 2016/679 (GDPR).*
