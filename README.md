@@ -1,88 +1,108 @@
-# Curriculum Vitae Markdown
-
-❗ The important stuff starts here ❗
-
-Hi everyone! This repository is a template and it's meant to be used as a starting point for your Curriculum Vitae.
-
-Come on, updating the CV is already boring by itself, imagine having to take care of its formatting as well. So the idea is to update a single Markdown file, like this README, and a Github Action will take care of the rest. It will:
-
-- Put the CV online on **Github Pages**, built with Jekyll. You can even use a custom domain if you'd like. You don't need to worry too much about the formatting. Feel free to move from Jekyll to [one of these](https://github.com/pages-themes).
-- Convert it to a **PDF**, which is uploaded as the `latest` Release. A link to it can be found a few lines above, so it can be easily downloaded by the online version of the CV.
-
-At every commit into the `main` branch, everything will be rebuilt and updated.
-
-Thus, the only thing you need to update is this README. And most importantly, before starting, there are a couple things to do:
-
-- **Update the links in the template below**, especially the link to the PDF. Just change `marcodellemarche/cvmd` with your Github username and repository name.
-- Enable Github Pages for your repo. Go to *Settings*, *Pages*, then under *Build and deployment* set the source to **Github Actions**.
-- You need to re-run once again the failed Action.
-
-*Pro tip*: if you need to force a page break into the PDF, simply use the following HTML element.
-
-```html
-<div class="page-break"></div>
-```
-
-That's it for today, I'll leave you to the fake CV you might take inspiration from. See ya! 👋
-
-❗ The important stuff ends here ❗
-
-<div class="page-break"></div>
-
-# Paolo Canestro
+# Federico Ferretti
 
 <img src="assets/profile.png" alt="Profile picture" width="200" align="right"/>
 
-*Super powerful engineer, based on the moon* 🌝
+*Sviluppatore .NET, appassionato di clean code e tecnologie Microsoft* 💻
 
-[Email](mailto:paolo@canestro.com) / [LinkedIn](https://www.linkedin.com/in/cvmd) / [GitHub](https://github.com/cvmd) / [Instagram](https://www.instagram.com/cvmd)
+[Email](mailto:federicoferretti.gvse@gmail.com) / [LinkedIn](https://www.linkedin.com/in/federicoferretti/) / 📞 328 066 8056
 
-📎 Download this CV [as a PDF](https://github.com/marcodellemarche/cvmd/releases/download/latest/cv.pdf)
+📍 Fabriano (AN) - Marche, Italia
 
-## 🌙 Moonlight Engineering Experience
+## 💼 Esperienze Lavorative
 
-*At night, I take on some moonlight engineering gigs.*
+**Associate Software Engineer** @ [Euris S.p.A.](https://www.euris.it) *(mar 2022 - Presente)* — Full Remote
 
-**Satellite Repair Technician** @ [SatCom Solutions](http://satcomsolutions.net) *(Jun 2030 - Present)*
+Sviluppo back-end e front-end per cliente assicurativo, con focus su architetture pulite e manutenibili.
 
-Repairing satellites orbiting the Earth, one screwdriver twist at a time. It's like a celestial puzzle.
+- Sviluppo .NET back-end in **C#** e **NodeJS**, con integrazione di componenti front-end.
+- Analisi dei requisiti e progettazione di nuove implementazioni tramite **UML** e **Class Diagram**.
+- Approfondimento dei **Design Patterns**, dei principi **SOLID** e delle best practice di **Unit Testing**.
 
-- Conducted spacewalks in zero gravity to fix satellites, occasionally juggling tools for amusement.
+---
 
-- Reprogrammed satellite communication systems with a dash of moon-inspired humor.
+**.NET Developer** @ [Metisoft S.p.A.](https://www.metisoft.it) *(nov 2017 - mar 2022)* — Ibrido
 
-- ***Technologies used:*** Celestial wrenches, zero-gravity jokes, satellite communication wizardry.
+Sviluppo full-stack su applicativi gestionali, con responsabilità diretta su progetti end-to-end.
 
-## 👨‍🚀 Lunar Education
+- Sviluppo back-end con **C#**, **SQL**, **Linq** e front-end con **JS**, **CSS**, **ASP**, **jQuery**.
+- Sviluppo e utilizzo di servizi **REST** e chiamate **AJAX**. Gestione database e pubblicazione applicativi.
+- Consulente per reportistiche avanzate e integrazione dati, con responsabilità dall'analisi allo sviluppo.
 
-**Ph.D. in Lunar Engineering** @ [Università di Formaggio Lunare](https://www.formaggiolunare.edu) *(Aug 2020 - Dec 2021)*
+---
 
-Studied the intricacies of lunar cheese formation and its potential applications in rocketry.
+**Tecnico del Web** @ Tipografia Garofoli (MiD) *(lug 2016 - gen 2017)* — Stage, Sassoferrato
 
-**B.A. in Galactic Giggles** @ [Università Comica delle Stelle](https://www.stellecomiche.edu) *(Mar 2017 - Jul 2020)*
+- Acquisizione di competenze **SEM** (SEO e AdWords) e sviluppo web con **JavaScript**, **PHP**, **HTML** e **CSS**.
+- Progettazione di automazioni di processo tramite **Arduino** e realizzazione di un sito con **Bootstrap**.
 
-A degree in making the cosmos laugh, one planet at a time.
+---
+
+**Tecnico di Laboratorio R&D** @ [Ariston Thermo Group](https://www.aristonthermo.com) *(mag - ott 2015)* — Stage, Fabriano
+
+- Ideazione e implementazione di test su componenti elettroniche, con collaborazione cross-funzionale (R&D, Qualità, Marketing).
+- Sviluppo **VBA** per automazione in Excel e forte focus su Problem Shaping e autonomia operativa.
+
+---
+
+**Consulente esterno** @ Laboratorio Biomasse, Università Politecnica delle Marche *(estate 2014)* — Stage
+
+- Implementazione di un Sistema di Gestione della Qualità (**ISO 9001**).
 
 <div class="page-break"></div>
 
-## 🌌 Interstellar Extracurriculars
+## 🎓 Educazione
 
-**Space Toastmasters Club** @ [Cosmic Communicators](http://cosmiccommunicators.club) *(Oct 2023 - Present)*
+**Tecnico Superiore nella Gestione e Verifica dei Sistemi Energetici** @ ITS "Efficienza Energetica" – Fabriano *(ott 2013 - nov 2015)* — Voto: 96/100
 
-Mastering the art of cosmic speech and interstellar storytelling.
+Percorso focalizzato su Sistemi di Gestione Integrati, analisi delle prestazioni energetiche e riqualificazione industriale.
 
-**Astro-Pizza Baking Course** @ [PizzaGalaxy Academy](https://www.pizzagalaxy.edu) *(May 2022 - Jun 2022)*
+- **International Internship**: Tirocinio formativo presso Bayview Hotel & Apartments, Gzira (Malta) — gestione e installazione di impianti energetici e di climatizzazione.
 
-Learned the fine art of baking pizza with moon dust and star cheese. Deliciously otherworldly.
+**Ingegneria Informatica ed Elettronica** @ Università degli Studi di Perugia *(2009 - 2012)* — Studi non completati
 
-## 💬 Multilingual Skills
+Esami superati: Fondamenti di Informatica (Java), Analisi Matematica, Fisica A e B, Geometria, Chimica, Inglese.
 
-🧀 **Lunar**: Fluent
+**Diploma Scientifico - Logico Matematico** @ Liceo "Vito Volterra" – Fabriano *(2009)*
 
-🌌 **Galactic English**: Conversational
+## 📚 Formazione Continua
 
-👽 **Alien Dialects**: Proficient in Charades
+**Udemy.com**
+- *Unit Testing for C# Developers* — Mosh Hamedani
+- *Design Patterns in C# and .NET* — Dmitri Nesteruk
+- *The Complete ASP.NET MVC 5 Course* — Mosh Hamedani
+- *React – The Complete Guide* — Maximilian Schwarzmüller
+- *Angular – The Complete Guide* — Maximilian Schwarzmüller
+- *Flutter & Dart – The Complete Guide* — Maximilian Schwarzmüller
 
-In summary, I'm not your typical engineer or comedian. I'm the guy who builds rockets and tells jokes on the moon. If you need a laugh and a lift-off, I'm your man! 🚀🌝😂
+**Coursera.com**
+- *Developing Applications with Google Cloud* — Google Cloud
+- *Architecting with Google Compute Engine* — Google Cloud
 
-*I authorize the processing of personal data contained in my curriculum vitae based on art. 13 GDPR 679/16.*
+**Altri corsi**
+- *Sviluppatore Web con tecnologia Microsoft* — Metisoft S.p.A. / Quota Group Srl *(ott 2017)*
+- *Le competenze trasversali in un percorso di lavoro* — Quota Group Srl *(lug/ago 2017)*
+- *Introduction to Computer Science – CS50* — Harvard Online Course *(da gen 2016)*
+
+## 🛠️ Competenze Tecniche
+
+**Linguaggi & Framework:** C#, ASP.NET, NodeJS, Linq, SQL, React, Angular, Flutter/Dart, JavaScript, HTML, CSS, PHP, Python, VBA, C, C++, Arduino
+
+**Metodologie:** Design Patterns, SOLID Principles, Unit Testing, REST API, AJAX, UML
+
+**Cloud:** Google Cloud Platform (GCP), Google Compute Engine
+
+**Networking:** Reti LAN, TCP/IP, IPv4, antenne Ubiquiti
+
+## 💬 Lingue
+
+🇮🇹 **Italiano**: Madrelingua
+
+🇬🇧 **Inglese**: Buona conoscenza scritta e parlata — Certificato B1 Cambridge (set 2015), corso B2 presso InLingua (Malta)
+
+## 🙋 Su di me
+
+Sono un risolutore. La mia innata curiosità mi predispone ad affrontare le nuove sfide con entusiasmo e passione. Mi piace lavorare in team e collaborare con i colleghi, con l'obiettivo comune di raggiungere i risultati prefissati. Patente B, disponibile per brevi trasferte all'estero.
+
+---
+
+*Autorizzo il trattamento dei miei dati personali ai sensi del D.Lgs. 30 giugno 2003, n. 196 e del Regolamento UE 2016/679 (GDPR).*
