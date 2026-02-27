@@ -8,11 +8,25 @@
 
 📍 Fabriano (AN) - Marche, Italia
 
-📎 Scarica CV [as a PDF](https://github.com/ferrets6/cv/releases/download/latest/federico-ferretti-cv.pdf)
+📎 Scarica CV [in PDF](https://github.com/ferrets6/cv/releases/download/latest/federico-ferretti-cv.pdf)
+
+## 🙋 Su di me
+
+Sono un risolutore. La mia innata curiosità mi predispone ad affrontare le nuove sfide con entusiasmo e passione. Mi piace lavorare in team e collaborare con i colleghi, con l'obiettivo comune di raggiungere i risultati prefissati. Patente B, disponibile per brevi trasferte all'estero.
+
+## 🛠️ Competenze Tecniche
+
+**Linguaggi & Framework:** .NET, NodeJS, Linq, SQL, React, Angular, Flutter/Dart, JavaScript, HTML, CSS, PHP, Python, VBA, C, C++, Arduino
+
+**Metodologie:** Design Patterns, SOLID Principles, Unit Testing, REST API, AJAX, UML
+
+**Cloud:** Google Cloud Platform (GCP), Google Compute Engine
+
+**Networking:** Reti LAN, TCP/IP, IPv4, antenne Ubiquiti
 
 ## 💼 Esperienze Lavorative
 
-**Associate Software Engineer** @ [Euris S.p.A.](https://www.euris.it) *(mar 2022 - Presente)* — Full Remote
+**Software Engineer** @ [Euris S.p.A.](https://www.euris.it) *(mar 2022 - Presente)* — Full Remote
 
 Sviluppo back-end e front-end per cliente assicurativo, con focus su architetture pulite e manutenibili.
 
@@ -83,25 +97,11 @@ Esami superati: Fondamenti di Informatica (Java), Analisi Matematica, Fisica A e
 - *Le competenze trasversali in un percorso di lavoro* — Quota Group Srl *(lug/ago 2017)*
 - *Introduction to Computer Science – CS50* — Harvard Online Course *(da gen 2016)*
 
-## 🛠️ Competenze Tecniche
-
-**Linguaggi & Framework:** C#, ASP.NET, NodeJS, Linq, SQL, React, Angular, Flutter/Dart, JavaScript, HTML, CSS, PHP, Python, VBA, C, C++, Arduino
-
-**Metodologie:** Design Patterns, SOLID Principles, Unit Testing, REST API, AJAX, UML
-
-**Cloud:** Google Cloud Platform (GCP), Google Compute Engine
-
-**Networking:** Reti LAN, TCP/IP, IPv4, antenne Ubiquiti
-
 ## 💬 Lingue
 
 🇮🇹 **Italiano**: Madrelingua
 
 🇬🇧 **Inglese**: Buona conoscenza scritta e parlata — Certificato B1 Cambridge (set 2015), corso B2 presso InLingua (Malta)
-
-## 🙋 Su di me
-
-Sono un risolutore. La mia innata curiosità mi predispone ad affrontare le nuove sfide con entusiasmo e passione. Mi piace lavorare in team e collaborare con i colleghi, con l'obiettivo comune di raggiungere i risultati prefissati. Patente B, disponibile per brevi trasferte all'estero.
 
 ---
 
