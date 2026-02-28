@@ -1,10 +1,10 @@
 # Federico Ferretti
 
-Software Engineer **.NET** & **NodeJS** specializzato in architetture enterprise (Allianz, Whirlpool, Elica) e sistemi legacy. Esperto nella creazione di **API** e layer **BFF** con focus su **SOLID**, **Design Patterns** e riduzione del debito tecnico. Competenze trasversali che spaziano dal cloud (**GCP**) all'IoT, garantendo soluzioni scalabili, manutenibili e di alta qualità.
-
 <img src="assets/profile.png" alt="Profile picture" width="200" align="right"/>
 
-*Software Engineer | .NET & Node.js | 8+ yrs* 💻
+Software Engineer **.NET** & **NodeJS** specializzato in architetture enterprise (Allianz, Whirlpool, Elica) e sistemi legacy. Esperto nella creazione di **API** e layer **BFF** con focus su **SOLID**, **Design Patterns** e riduzione del debito tecnico. Competenze trasversali che spaziano dal cloud (**GCP**) all'IoT, garantendo soluzioni scalabili, manutenibili e di alta qualità.
+
+*Software Engineer — .NET & Node.js — 8+ yrs* 💻
 
 [Email](mailto:ferrettifederico1990@gmail.com) / [LinkedIn](https://www.linkedin.com/in/federicoferretti/) / [GitHub](https://github.com/ferrets6)
 
